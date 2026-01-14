@@ -19,7 +19,7 @@ This tool helps you bypass hotspot limits imposed by mobile carriers. It modifie
 - **One-Click Reset**: Easily restore default Windows settings (TTL 128) and re-enable IPv6.
 
 ### How to Use
-1. Right-click `hajim.cmd` and select **Run as Administrator** (or the script will ask for permissions).
+1. Right-click `hotspot-bypass.cmd` and select **Run as Administrator** (or the script will ask for permissions).
 2. Choose an option from the menu:
    - Press `2` or `3` to manually apply a bypass.
    - Press `5` so the tool automatically finds the best bypass for you.
@@ -46,7 +46,7 @@ Alat ini membantu anda memintas had hotspot yang dikenakan oleh syarikat telekom
 - **Reset Satu Klik**: Kembalikan tetapan asal Windows (TTL 128) dan aktifkan semula IPv6 dengan mudah.
 
 ### Cara Penggunaan
-1. Klik kanan pada `hajim.cmd` dan pilih **Run as Administrator** (atau skrip akan meminta kebenaran).
+1. Klik kanan pada `hotspot-bypass.cmd` dan pilih **Run as Administrator** (atau skrip akan meminta kebenaran).
 2. Pilih satu pilihan dari menu:
    - Tekan `2` atau `3` untuk memintas secara manual.
    - Tekan `5` untuk membiarkan alat mencari pintasan terbaik secara automatik.
@@ -55,3 +55,4 @@ Alat ini membantu anda memintas had hotspot yang dikenakan oleh syarikat telekom
 
 ### Penafian
 Alat ini adalah untuk tujuan pendidikan dan ujian rangkaian sahaja. Sila patuhi terma perkhidmatan syarikat telekomunikasi anda. Gunakan atas risiko anda sendiri.
+
